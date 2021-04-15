@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Bienvenidos a la segunda página!"
+title: "Benvinguts a la SEGONA pàgina!"
 ---
 Ara **fliparàs**
-Utiliza la flecha hacia la izquierda para volver!
+pots fer servir la fletxa a l'esquerra per tornar!
